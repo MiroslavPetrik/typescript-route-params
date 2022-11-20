@@ -1,0 +1,16 @@
+{
+  "name": "typescript-route-params",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Miroslav Petrik",
+  "dependencies": {
+    "ts-toolbelt": "^9.6.0"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
